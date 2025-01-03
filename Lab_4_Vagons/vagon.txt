@@ -1,0 +1,8 @@
+3,ai1,11 people
+4,ai2,16 people
+52,ai3,35 people
+1000,ai4,46 people
+3558,ai5,38 people
+9966,ai6,reactor
+40052,ai7,flares
+600101,loc1,locomotive
